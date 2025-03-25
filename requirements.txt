@@ -1,0 +1,6 @@
+PyQt6==6.8.1
+deepface==0.0.93
+keras==3.9.0
+psutil==7.0.0
+ray==2.43.0
+tf_keras==2.16.0
